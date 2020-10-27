@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Project 2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj": {}
+    "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Enrico_Dreyer_Project2_MVC\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj": {}
   },
   "projects": {
-    "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Project 2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj": {
+    "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Enrico_Dreyer_Project2_MVC\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Project 2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj",
+        "projectUniqueName": "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Enrico_Dreyer_Project2_MVC\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj",
         "projectName": "Enrico_Dreyer_Project2",
-        "projectPath": "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Project 2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj",
+        "projectPath": "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Enrico_Dreyer_Project2_MVC\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj",
         "packagesPath": "C:\\Users\\EnricoIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Project 2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\obj\\",
+        "outputPath": "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Enrico_Dreyer_Project2_MVC\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
