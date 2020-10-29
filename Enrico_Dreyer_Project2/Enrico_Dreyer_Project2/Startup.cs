@@ -34,7 +34,7 @@ namespace Enrico_Dreyer_Project2
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddDbContext<enricodreyerContext> (options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddRazorPages();
+            services.AddRazorPages(); 
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
