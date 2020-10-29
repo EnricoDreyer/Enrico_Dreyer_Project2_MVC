@@ -7,7 +7,6 @@ namespace Enrico_Dreyer_Project2.Models
     {
         public AspNetRoles()
         {
-            AspNetRoleClaims = new HashSet<AspNetRoleClaims>();
             AspNetUserRoles = new HashSet<AspNetUserRoles>();
         }
 
@@ -15,8 +14,6 @@ namespace Enrico_Dreyer_Project2.Models
         public string Name { get; set; }
         public string NormalizedName { get; set; }
         public string ConcurrencyStamp { get; set; }
-
-        public virtual ICollection<AspNetRoleClaims> AspNetRoleClaims { get; set; }
         public virtual ICollection<AspNetUserRoles> AspNetUserRoles { get; set; }
     }
 }
