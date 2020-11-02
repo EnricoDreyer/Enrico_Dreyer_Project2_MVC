@@ -11,6 +11,7 @@ namespace Enrico_Dreyer_Project2.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
+
         }
     }
 }
