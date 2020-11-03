@@ -20,7 +20,7 @@ namespace Enrico_Dreyer_Project2.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return Redirect("identity/account/login");
         }
 
         public IActionResult Privacy()
