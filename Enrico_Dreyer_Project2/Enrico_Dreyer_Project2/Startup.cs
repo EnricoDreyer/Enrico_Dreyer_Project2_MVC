@@ -65,7 +65,7 @@ namespace Enrico_Dreyer_Project2
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=login}/{action=Index}/{id?}");
                 endpoints.MapRazorPages();
             });
         }
