@@ -12,6 +12,8 @@ using Enrico_Dreyer_Project2.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Swashbuckle.Swagger;
+using Swashbuckle.AspNetCore.Swagger;
 
 namespace Enrico_Dreyer_Project2
 {
@@ -34,12 +36,25 @@ namespace Enrico_Dreyer_Project2
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddDbContext<enricodreyerContext> (options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddRazorPages(); 
+            services.AddRazorPages();
+
+            services.AddSwaggerGen(options =>
+            {
+                options.SwaggerDoc("v2", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "Place Info Service API",
+                    Version = "v2",
+                    Description = "Sample service for Learner",
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseSwagger();
+            app.UseSwaggerUI(options => options.SwaggerEndpoint("/swagger/v2/swagger.json", "PlaceInfo Services"));
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
