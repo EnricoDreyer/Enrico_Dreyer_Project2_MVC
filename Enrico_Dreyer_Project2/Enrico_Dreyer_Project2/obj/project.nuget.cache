@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VwnlPI186H/YWO5ERsiC24TNC6mmZaSnGNSh6VbLwBBrAEpM7LIIAZRLbdjSA5xlWnS0FwH8mW7MMgbKJATsrw==",
+  "dgSpecHash": "qh1bHtzBRMXz5eFf1I7Ah0ARyfqSjqYe/l8DAlVowmaknm3KNtcxWHmaVv8TFfle6PbDEMo11h/Nx56TQ3Ceog==",
   "success": true,
-  "projectFilePath": "C:\\Univercity IT\\Third Year 2020\\Second semester\\CMPG 323 IT Development\\Enrico_Dreyer_Project2_MVC\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj",
+  "projectFilePath": "C:\\Users\\EnricoIT\\Desktop\\Enrico_Dreyer_Project2_MVC\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2\\Enrico_Dreyer_Project2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EnricoIT\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
     "C:\\Users\\EnricoIT\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
