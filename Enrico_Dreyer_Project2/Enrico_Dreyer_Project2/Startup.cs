@@ -12,8 +12,6 @@ using Enrico_Dreyer_Project2.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Swashbuckle.Swagger;
-using Swashbuckle.AspNetCore.Swagger;
 
 namespace Enrico_Dreyer_Project2
 {
