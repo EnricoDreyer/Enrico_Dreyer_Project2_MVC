@@ -564,3 +564,4 @@ C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enri
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\obj\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.dll
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\obj\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.pdb
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\obj\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.genruntimeconfig.cache
+C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.EnricoDreyerProject220201118142952 - Web Deploy.json
