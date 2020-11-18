@@ -338,7 +338,6 @@ C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enri
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.StaticWebAssets.xml
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\wwwroot\Content\vendor\bootstrap\css\bootstrap.css
-C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\EnricoDreyerProject220201118142952 - Web Deploy\profile.arm.json
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.exe
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.deps.json
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.runtimeconfig.json
@@ -564,4 +563,5 @@ C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enri
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\obj\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.dll
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\obj\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.pdb
 C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\obj\Debug\netcoreapp3.1\Enrico_Dreyer_Project2.genruntimeconfig.cache
-C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.EnricoDreyerProject220201118142952 - Web Deploy.json
+C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.EnricoDreyerProject2 - Web Deploy.json
+C:\Users\EnricoIT\Desktop\Enrico_Dreyer_Project2_MVC\Enrico_Dreyer_Project2\Enrico_Dreyer_Project2\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\EnricoDreyerProject2 - Web Deploy\profile.arm.json
