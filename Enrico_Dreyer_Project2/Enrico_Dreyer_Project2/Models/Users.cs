@@ -7,9 +7,7 @@ namespace Enrico_Dreyer_Project2.Models
     public partial class Users
     {
         public string Age { get; set; }
-        [DisplayName("Enricolist URL")]
         public string Attrition { get; set; }
-        [DisplayName("HelloWorld URL")]
         public string BusinessTravel { get; set; }
         public string DailyRate { get; set; }
         public string Department { get; set; }
